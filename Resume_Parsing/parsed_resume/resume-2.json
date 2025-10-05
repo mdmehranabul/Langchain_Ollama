@@ -1,0 +1,48 @@
+{
+    "Contact Information": {
+        "Name": "Ross Thiele",
+        "Phone Number": "(770) 286-6771 or (770) 315-8721",
+        "Address": "430 Chantenay Place, Johns Creek, GA 30022"
+    },
+    "Education": {
+        "Institution Name": "Southern Polytechnic State University",
+        "Degree": "Bachelor of Mechanical Engineering Technology",
+        "Field of Study": "Mechanical Engineering",
+        "Graduation Date": "Expected December 2017"
+    },
+    "Experience": [
+        {
+            "Job Title": "Photographer and Warehouse Assistant",
+            "Company Name": "Pure Red Creative",
+            "Location": "Tucker GA",
+            "Dates of Employment": "Summer 2013-Present",
+            "Responsibilities/Projects": "Organized merchandise, Unloaded trucks, Shipped merchandise, Built sets for photo shoots"
+        },
+        {
+            "Job Title": "Loader and Green house Worker",
+            "Company Name": "Pike Nursery",
+            "Location": "Johns Creek, GA",
+            "Dates of Employment": "Spring 2013",
+            "Responsibilities/Projects": "Loaded vehicles with products, Organized greenhouse daily"
+        },
+        {
+            "Job Title": "Assistant Manager",
+            "Company Name": "Menchies Frozen Yogurt",
+            "Location": "Johns Creek, GA",
+            "Dates of Employment": "Summer 1988-89",
+            "Responsibilities/Projects": "Prepared frozen yogurt machines, Prepared fresh toppings"
+        }
+    ],
+    "Skills": {
+        "Operating Systems": [
+            "Windows",
+            "Mac OSX"
+        ],
+        "Programming Languages": [],
+        "Technologies/Tools": []
+    },
+    "Additional Information": {
+        "Community Service": "Hundreds of hours logged for community service through the Boy Scouts of America",
+        "Extracurricular Activities": "Eagle Scout, Boy Scouts of America, 2011"
+    }
+}

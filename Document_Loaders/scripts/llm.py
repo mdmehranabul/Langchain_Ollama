@@ -20,7 +20,6 @@ prompt = """Answer user question based on the provided context only. If you do n
             ### Question: {question}
             ### Answer:
 """
-
 prompt=HumanMessagePromptTemplate.from_template(prompt)
 
 messages=[system,prompt]

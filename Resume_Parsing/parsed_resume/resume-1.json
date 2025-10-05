@@ -1,0 +1,90 @@
+{
+    "contactInformation": {
+        "name": "Kumar Pallav",
+        "email": "me@kumarpallav.com",
+        "phoneNumber": "+1-206-910-0006",
+        "websitePortfolio": "http://kumarpallav.com"
+    },
+    "education": {
+        "institutionName": "Indian Institute of Technology, Bombay",
+        "degree": "Bachelor of Computer Science and Engineering (with Hons.)",
+        "fieldOfStudy": "Computer Science and Engineering",
+        "graduationDates": "June 2010 - May 2014"
+    },
+    "experience": [
+        {
+            "jobTitle": "Software Engineer \u00b7 OneNote",
+            "companyName": "Microsoft",
+            "location": "Redmond, WA",
+            "datesOfEmployment": "June 2016 - Present",
+            "responsibilitiesProjects": [
+                "Magic Ink and Ink Lookup",
+                "Whiteboard App",
+                "Content Addins"
+            ]
+        },
+        {
+            "jobTitle": "Software Engineer \u00b7 OneNote",
+            "companyName": "Microsoft",
+            "location": "Vancouver, Canada",
+            "datesOfEmployment": "November 2014 - May 2016",
+            "responsibilitiesProjects": [
+                "Embedded Videos and Web Content",
+                "Merged Cells for Tables",
+                "Realtime Ink"
+            ]
+        },
+        {
+            "jobTitle": "Software Engineering Intern \u00b7 Apps for Enterprises",
+            "companyName": "Oracle",
+            "location": "Bangalore, India",
+            "datesOfEmployment": "November 2014 - May 2016",
+            "responsibilitiesProjects": [
+                "Containerization of iOS Apps",
+                "Sandboxed Browser App"
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "projectTitle": "Course Allotment Simulation using SAT Solver",
+            "descriptionTechnologiesUsed": "SAT solver, MiniSAT, Glucose",
+            "outcomesResults": "Studied relative ef\ufb01ciency of various heuristics"
+        },
+        {
+            "projectTitle": "IIT Bombay Hospital Digitization",
+            "descriptionTechnologiesUsed": "Java, MySQL",
+            "outcomesResults": "Created a complete web application handling operations on relational MySQL databases"
+        },
+        {
+            "projectTitle": "Simple 2D Physics Engine",
+            "descriptionTechnologiesUsed": "",
+            "outcomesResults": "Wrote a physics engine providing back-end that could generate coordinates in real-time with collision, gravity, restitution and custom resolution of time."
+        },
+        {
+            "projectTitle": "Social Sea",
+            "descriptionTechnologiesUsed": "",
+            "outcomesResults": "Create a lightweight social search engine showing results ranked according to one\u2019s peer-group search history and rating."
+        }
+    ],
+    "skills": {
+        "programmingLanguages": [
+            "C++",
+            "CSharp",
+            "JavaScript",
+            "Java",
+            "C"
+        ],
+        "technologiesTools": [
+            "NodeJs",
+            "UWP",
+            "Win32"
+        ]
+    },
+    "additionalInformation": {
+        "certifications": "",
+        "awardsOrHonors": "",
+        "professionalAffiliations": "",
+        "languages": ""
+    }
+}
